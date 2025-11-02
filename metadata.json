@@ -1,0 +1,5 @@
+{
+  "name": "Receipt Rocket",
+  "description": "An application to scan receipts using AI. Upload receipt images to extract company, category, total, and tax information, then export the data to a CSV file.",
+  "requestFramePermissions": []
+}
